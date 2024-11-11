@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://itch.io/profile/atharvam](https://itch.io/profile/atharvam)
 
-- My Website [https://atharvmandlavdiya.netlify.app/main.html](https://atharvmandlavdiya.netlify.app/main.html)
+- My Website [https://atharvmandlavdiya.netlify.app/](https://atharvmandlavdiya.netlify.app/)
 
 - 📫 How to reach me **atharvam682@gmail.com**
 
