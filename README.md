@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Unity Python C#**
 
-- 👨‍💻 All of my projects are available at [https://itch.io/profile/atharvam](https://itch.io/profile/atharvam)
+- 👨‍💻 All of my projects are available at [itch.io/profile/atharvam](https://itch.io/profile/atharvam)
 
-- My Website [https://atharvmandlavdiya.netlify.app/](https://atharvmandlavdiya.netlify.app/)
+- My Website [atharvmandlavdiya.netlify.app](https://atharvmandlavdiya.netlify.app/)
 
-- Google Dev [g.dev](https://developers.google.com/profile/u/atharvmandlavdiya)
+- Google Dev [g.dev/atharvmandlavdiya](g.dev/atharvmandlavdiya)
 
 - 📫 How to reach me **atharvam682@gmail.com**
 
