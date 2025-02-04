@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&theme=dark" alt="atharvm02222" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&" alt="atharvm02222" />
 </p>
 
 
