@@ -28,5 +28,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&" alt="atharvm02222" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&theme=dark" alt="atharvm02222" />
+</p>
+
 
