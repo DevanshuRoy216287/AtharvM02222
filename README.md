@@ -27,13 +27,8 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvM02222&theme=dark" /><img align="top" src="https://github-readme-stats.vercel.app/api?username=AtharvM02222&show_icons=true&theme=dark" />
 
 
+📦 Lines of Code by Author: <!--LOC_START-->0<!--LOC_END-->
+📄 Total Files: <!--FILES_START-->0<!--FILES_END-->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&" alt="atharvm02222" />
-</p>
-
-## 📊 Website Stats
-
-![Lines of Code](https://git-loc-badge.vercel.app/?repo=AtharvM02222/Website)
 
 
