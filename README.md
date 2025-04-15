@@ -32,4 +32,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&" alt="atharvm02222" />
 </p>
 
+## 📊 Website Stats
+
+![Lines of Code](https://git-loc-badge.vercel.app/?repo=AtharvM02222/Website)
+
 
