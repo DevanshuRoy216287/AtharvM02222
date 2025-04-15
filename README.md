@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Mandlavdiya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+![Lines of Code](https://git-loc-badge.vercel.app/?repo=AtharvM02222/Website)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvm02222&label=Profile%20views&color=0e75b6&style=flat" alt="atharvm02222" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvm02222" alt="atharvm02222" /></a> </p>
@@ -25,10 +28,5 @@
 
 
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvM02222&theme=dark" /><img align="top" src="https://github-readme-stats.vercel.app/api?username=AtharvM02222&show_icons=true&theme=dark" />
-
-
-📦 Lines of Code by Author: <!--LOC_START-->0<!--LOC_END-->
-📄 Total Files: <!--FILES_START-->0<!--FILES_END-->
-
 
 
