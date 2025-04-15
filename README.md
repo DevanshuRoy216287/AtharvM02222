@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Mandlavdiya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![Lines of Code](https://git-loc-badge.vercel.app/?repo=AtharvM02222/Website)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvm02222&label=Profile%20views&color=0e75b6&style=flat" alt="atharvm02222" /> </p>
